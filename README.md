@@ -25,7 +25,7 @@ This application will require some user permmsions to be granted in order for th
     <img src='/Resources/install02.jpg'>
 
 ### Privacy Policy
-<img src='https://gitlab.op-bit.nz/BIT/Project/Mobile-Development/excercise-app/raw/clean-up/Resources/privacypolicy.jpg'>
+<img src='/Resources/privacypolicy.jpg'>
 <!-- ![FitsGo](https://gitlab.op-bit.nz/BIT/Project/Mobile-Development/excercise-app/raw/clean-up/Resources/privacypolicy.jpg) -->
 
 ### Signup/Sign in
